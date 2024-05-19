@@ -7,8 +7,25 @@ Desafio 1.1: Descreva o título desses testes. Não é necessário descrever os 
 
 Com base nos campos encaminhados com a função cadastro, é necessário no mínimo 10 testes:
 
-Teste de Cadastro com todos os Campos Preenchidos Corretamente, Teste de Cadastro com Nome em Branco, Teste de Cadastro com CPF em Branco, Teste de Cadastro com E-mail em Branco, Teste de Cadastro com Senha em Branco, Teste de Cadastro com Confirmar Senha em Branco, 
-Teste de Cadastro com Senha e Confirmar Senha Diferentes, Teste de Cadastro com E-mail Inválido, Teste de Cadastro com CPF Inválido, Teste de Cadastro com Senha Fraca
+Teste de Cadastro com todos os Campos Preenchidos Corretamente
+
+Teste de Cadastro com Nome em Branco
+
+Teste de Cadastro com CPF em Branco
+
+Teste de Cadastro com E-mail em Branco
+
+Teste de Cadastro com Senha em Branco
+
+Teste de Cadastro com Confirmar Senha em Branco
+
+Teste de Cadastro com Senha e Confirmar Senha Diferentes
+
+Teste de Cadastro com E-mail Inválido
+
+Teste de Cadastro com CPF Inválido
+
+Teste de Cadastro com Senha Fraca
 
 Desafio 2: QA - Acesse a Url
 https://e-commerce-flax-one.vercel.app/
